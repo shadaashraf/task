@@ -1,0 +1,88 @@
+h1{
+    font-weight:500px;
+    font-size: 120px;
+    color: #06efe2;
+  
+}
+p{
+    font-size:20px;
+    font-weight: 300px;
+    color: #06efe2;
+}
+.badge{
+    padding: 15px;
+    width: 190px;
+    background-color:#06efe2;
+}
+hr{
+   background-color:darkslategrey;
+    height:3px;
+}
+.btn{
+    background-color: #06efe2;
+}
+.carousel{
+    margin-bottom: 20px;
+    
+}
+h2{
+       font-weight: 300;
+       font-size:60px ;
+       margin-left: 150px;
+       color:#06efe2; 
+}
+#FirstPIC {
+    background-image: url(img/item_XL_51889586_1de88c6575d90.jpg);
+    height:400px;
+     background-repeat: no-repeat;
+
+
+}
+#FirstPIC:hover{
+    background-image: url(img/item_XL_51889586_1311d3581c5f5.jpg);
+    height: 400px;
+     background-repeat: no-repeat;
+    transition:0.5s;
+}
+#SecPIC {
+    background-image: url(img/item_XL_51889560_c54e2563b25ac.jpg);
+    height:400px;
+      background-repeat: no-repeat;
+
+
+}
+#SecPIC:hover{
+    background-image: url(img/item_XL_51889566_8dbac7d5b2039.jpg);
+    height: 400px;
+     background-repeat: no-repeat;
+    transition:0.5s;
+    
+}
+#ThirdPIC{
+    background-image: url(img/item_XL_85665842_990aca49a1760.jpg);
+    height: 400px;
+     background-repeat: no-repeat;
+}
+#ThirdPIC:hover {
+    background-image: url(img/item_XL_51889566_8dbac7d5b2039.jpg);
+    height:400px;
+      background-repeat: no-repeat;
+    transition:0.5s;
+
+}
+#FourthPIC{
+    background-image: url(img/item_XL_54940497_d3eb9f4713ef0.jpg);
+    height: 400px;
+    background-repeat: no-repeat;
+}
+#FourthPIC:hover {
+    background-image: url(img/item_XL_54940497_db79a753c3114.jpg);
+    height:400px;
+     background-repeat: no-repeat;
+    transition:0.5s;
+
+}
+#Info{
+    margin-top: 30px;
+}
+
